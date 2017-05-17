@@ -1,0 +1,17 @@
+# Settings
+baseurl = "http://example.org/"
+languageCode = "fr"
+title = "Travelling the world"
+theme = "phugo"
+googleAnalytics = "UA-XXXXXXX-Y"
+
+[params]
+
+    # Meta
+    description = "Phugo - Photo Gallery on Hugo"
+    author = "aerohub"
+    keywords = "phugo, hugo, photogallery, photoblog, hugo theme"
+
+    # Headerbar links
+    # Do not put here too many links,
+    # it will break mobile appearance

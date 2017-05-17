@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/album-twelve/</loc>
+    <lastmod>2016-10-21T19:17:45+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/album-eleven/</loc>
+    <lastmod>2016-10-21T19:17:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/album-ten/</loc>
+    <lastmod>2016-10-21T19:16:54+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/album-nine_index/</loc>
+    <lastmod>2016-10-21T19:16:34+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/album-eight/</loc>
+    <lastmod>2016-10-21T19:16:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/album-seven/</loc>
+    <lastmod>2016-10-21T19:15:46+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/album-six/</loc>
+    <lastmod>2016-10-21T19:15:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/album-five/</loc>
+    <lastmod>2016-10-21T19:14:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/album-four/</loc>
+    <lastmod>2016-10-21T19:08:27+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/album-three/</loc>
+    <lastmod>2016-10-21T19:08:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/album-two/</loc>
+    <lastmod>2016-10-21T19:07:42+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/album-one/</loc>
+    <lastmod>2016-10-21T19:07:17+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2016-10-21T19:16:34+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
