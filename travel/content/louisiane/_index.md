@@ -5,26 +5,75 @@ title = "Louisiane"
 
 +++
 
-{{< photo full="http://placehold.it/1024x683/D0661C/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/D0661C/ffffff?text=Thumbnail" alt="" phototitle="Magna feugiat lorem" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
 
-{{< photo full="http://placehold.it/1024x683/140D09/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/140D09/ffffff?text=Thumbnail" alt="" phototitle="Nisl adipiscing" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
+{{< photo full="img/01.JPG" thumb="img/01.JPG">}}
 
-{{< photo full="http://placehold.it/1024x683/A25F3C/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/A25F3C/ffffff?text=Thumbnail" alt="" phototitle="Tempus aliquam veroeros" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
+{{< photo full="img/04.JPG" thumb="img/04.JPG">}}
 
-{{< photo full="http://placehold.it/1024x683/45352C/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/45352C/ffffff?text=Thumbnail" alt="" phototitle="Aliquam ipsum sed dolore" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
+{{< photo full="img/05.JPG" thumb="img/05.JPG">}}
 
-{{< photo full="http://placehold.it/1024x683/CDB5A6/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/CDB5A6/ffffff?text=Thumbnail" alt="" phototitle="Cursis aliquam nisl" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
+{{< photo full="img/06.JPG" thumb="img/06.JPG">}}
 
-{{< photo full="http://placehold.it/1024x683/321F14/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/321F14/ffffff?text=Thumbnail" alt="" phototitle="Sed consequat phasellus" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
+{{< photo full="img/07.JPG" thumb="img/07.JPG">}}
 
-{{< photo full="http://placehold.it/1024x683/C49578/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/C49578/ffffff?text=Thumbnail" alt="" phototitle="Mauris id tellus arcu" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
+{{< photo full="img/08.JPG" thumb="img/08.JPG">}}
 
-{{< photo full="http://placehold.it/1024x683/60493D/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/60493D/ffffff?text=Thumbnail" alt="" phototitle="Nunc vehicula id nulla" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
+{{< photo full="img/09.JPG" thumb="img/09.JPG">}}
 
-{{< photo full="http://placehold.it/1024x683/CE814E/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/CE814E/ffffff?text=Thumbnail" alt="" phototitle="Neque et faucibus viverra" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
+{{< photo full="img/10.JPG" thumb="img/10.JPG">}}
 
-{{< photo full="http://placehold.it/1024x683/232322/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/232322/ffffff?text=Thumbnail" alt="" phototitle="Mattis ante fermentum" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
+{{< photo full="img/11.JPG" thumb="img/11.JPG">}}
 
-{{< photo full="http://placehold.it/1024x683/B4A99E/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/B4A99E/ffffff?text=Thumbnail" alt="" phototitle="Sed ac elementum arcu" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
+{{< photo full="img/12.JPG" thumb="img/12.JPG">}}
 
-{{< photo full="http://placehold.it/1024x683/7D5F50/ffffff?text=Full+Image" thumb="http://placehold.it/360x247/7D5F50/ffffff?text=Thumbnail" alt="" phototitle="Vehicula id nulla dignissim" description="Nunc blandit nisi ligula magna sodales lectus elementum non. Integer id venenatis velit.">}}
+{{< photo full="img/13.JPG" thumb="img/13.JPG">}}
+
+{{< photo full="img/14.JPG" thumb="img/14.JPG">}}
+
+{{< photo full="img/15.JPG" thumb="img/15.JPG">}}
+
+{{< photo full="img/16.JPG" thumb="img/16.JPG">}}
+
+{{< photo full="img/17.JPG" thumb="img/17.JPG">}}
+
+{{< photo full="img/18.JPG" thumb="img/18.JPG">}}
+
+{{< photo full="img/19.JPG" thumb="img/19.JPG">}}
+
+{{< photo full="img/20.JPG" thumb="img/20.JPG">}}
+
+{{< photo full="img/21.JPG" thumb="img/21.JPG">}}
+
+{{< photo full="img/22.JPG" thumb="img/22.JPG">}}
+
+{{< photo full="img/23.JPG" thumb="img/23.JPG">}}
+
+{{< photo full="img/24.JPG" thumb="img/24.JPG">}}
+
+{{< photo full="img/25.JPG" thumb="img/25.JPG">}}
+
+{{< photo full="img/26.JPG" thumb="img/26.JPG">}}
+
+{{< photo full="img/27.JPG" thumb="img/27.JPG">}}
+
+{{< photo full="img/28.JPG" thumb="img/28.JPG">}}
+
+{{< photo full="img/29.JPG" thumb="img/29.JPG">}}
+
+{{< photo full="img/30.JPG" thumb="img/30.JPG">}}
+
+{{< photo full="img/31.JPG" thumb="img/31.JPG">}}
+
+{{< photo full="img/32.JPG" thumb="img/32.JPG">}}
+
+{{< photo full="img/33.JPG" thumb="img/33.JPG">}}
+
+{{< photo full="img/34.JPG" thumb="img/34.JPG">}}
+
+{{< photo full="img/35.JPG" thumb="img/35.JPG">}}
+
+{{< photo full="img/36.JPG" thumb="img/36.JPG">}}
+
+{{< photo full="img/37.JPG" thumb="img/37.JPG">}}
+
+{{< photo full="img/38.JPG" thumb="img/38.JPG">}}

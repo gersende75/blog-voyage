@@ -1,7 +1,7 @@
 # Settings
 baseurl = "http://example.org/"
 languageCode = "fr"
-title = "Travelling the world"
+title = "Around the world"
 theme = "phugo"
 googleAnalytics = "UA-XXXXXXX-Y"
 

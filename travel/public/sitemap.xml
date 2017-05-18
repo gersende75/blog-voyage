@@ -43,13 +43,18 @@
   </url>
   
   <url>
-    <loc>http://example.org/majorque/</loc>
+    <loc>http://example.org/utah/</loc>
     <lastmod>2016-10-21T19:16:54+03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/utah/</loc>
-    <lastmod>2016-10-21T19:16:54+03:00</lastmod>
+    <loc>http://example.org/nevada/</loc>
+    <lastmod>2016-10-21T19:16:04+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/new-mexico/</loc>
+    <lastmod>2016-10-21T19:16:04+03:00</lastmod>
   </url>
   
   <url>
@@ -78,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://example.org/br%C3%A9sil/</loc>
+    <loc>http://example.org/bresil/</loc>
     <lastmod>2016-10-21T19:14:59+03:00</lastmod>
   </url>
   
@@ -123,11 +128,6 @@
   </url>
   
   <url>
-    <loc>http://example.org/londres/</loc>
-    <lastmod>2016-10-21T19:07:17+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://example.org/nouvelle-caledonie/</loc>
     <lastmod>2016-10-21T19:07:17+03:00</lastmod>
   </url>
@@ -137,17 +137,17 @@
   </url>
   
   <url>
+    <loc>http://example.org/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://example.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://example.org/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/</loc>
     <priority>0</priority>
   </url>
   
